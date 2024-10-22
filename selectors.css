@@ -1,0 +1,23 @@
+body{
+    background-color:rgb(250, 147, 12);
+}
+h1, h3 ,h2{
+    color: red;
+}
+div{
+    background-color: rgb(206, 131, 206);
+}
+.blue,h4{
+    color: blue;
+    text-align: right;
+    background-color: red;
+    border: 20px skyblue black;
+}
+#yellow{
+    background-color: antiquewhite;
+    color: black;
+}
+*{
+    margin: 100px;
+    padding: 50px;
+}
